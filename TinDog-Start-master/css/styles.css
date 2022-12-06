@@ -1,0 +1,115 @@
+body
+{
+    font-family: "Montserrat-black";
+}
+
+#title
+{
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 3% 15%;
+}
+
+h1
+{
+    font-family: "Montserrat-black";
+    font-weight: 5rem;
+}
+
+h3{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 1rem;
+}
+h2{
+    font-family: "Montserrat-bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+p
+{
+    color: gray;
+}
+
+.container-fluid
+{
+    padding: 3% 15%;
+}
+.navbar-brand
+{
+    font-size: large;
+    font-weight: bolder;
+    padding: 7% 15%;
+    color: #fff;
+}
+
+.image-title
+{
+    width: 20%;
+    transform: rotate(25deg);
+    position: absolute;
+}
+
+#features
+{
+    padding: 7% 15%;
+    text-align: center;
+   
+}
+
+.icon
+{
+    color:#ef8172;
+}
+#testimonials
+{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color:#fff;
+}
+
+.image-testimonial
+{
+    width: 10%;
+    border-radius: 200%;
+    margin: 10px;
+}
+
+#press
+{
+    background-color: #ef8172;
+    text-align: center;
+    padding: 3%;
+
+}
+.press-image
+{
+    width: 15%;
+    margin:20px 20px 50px;
+}
+
+#pricing
+{
+    padding: 100px;
+}
+
+#cta
+{
+background-color: #ff4c68;
+color: #fff;
+padding: 7% 15%;
+text-align: center;
+}
+
+.ctahead
+{
+    font-family: "Montserrat-black";
+    line-height: 1.5;
+    font-weight: 3.5rem;
+}
+#footer
+{
+    padding: 7% 15%;
+    text-align: center;
+}
